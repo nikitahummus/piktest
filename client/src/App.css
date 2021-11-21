@@ -27,6 +27,18 @@ color: #969BA5;
   .inputcontainer{
     height: 170px;
     flex-direction: column;
-  justify-content: space-around;
+    justify-content: space-around;
   }
-};
+}
+#night{
+background-image: url(https://0.pik.ru.cdn.pik-service.ru/undefined/2020/07/21/dsc06845_481909dfb262bfdcb554e38bd110c38f_eZGKKhSFQDqht6yz.jpg);
+}
+
+#day{
+  background-image: url(https://0.pik.ru.cdn.pik-service.ru/undefined/2021/08/03/dji_0093.rev00_wj16guVhKoupGK8K.jpg);
+}
+
+
+
+
+
