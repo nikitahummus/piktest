@@ -2,7 +2,6 @@ import styled from "styled-components"
 export const GreyInput = styled.input`
 width : ${(props) => (props.Firstname ? "200px" : "432px")};
 height : 56px;
-margin-right: 10px;
 ::placeholder {
   color: ${(props) => (props.error ? "rgba(230, 70, 70, 1)" : "#4D4D4D;")};
 }

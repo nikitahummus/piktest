@@ -19,6 +19,7 @@ color: #969BA5;
 }
 
 .inputcontainer{
+  width: 432px;
   display: flex;
   justify-content: space-between;
   align-items: center;
